@@ -82,6 +82,4 @@ path 2
 1 1 1 - -
 
 
-logic https://youtu.be/weE-o93MqOc
-code https://www.youtube.com/watch?v=WP17lk8aqT4
 */

@@ -102,9 +102,6 @@ output:
 
 if multiple arr id possible then the starting from the top row and consider the possiblity once the lefft most col is fillied
 
-logic : https://youtu.be/sDqlDgDsWm0
-
-code :  https://youtu.be/1lGI9QLGf3Q
 
 NorthWest diagonal (row+col)
 

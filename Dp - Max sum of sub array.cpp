@@ -32,6 +32,4 @@ int main()
 output 8
 
 
-logic https://youtu.be/YxiRc60kghI
-code https://youtu.be/FWTqoQO1YFA
 */

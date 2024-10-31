@@ -45,8 +45,5 @@ ice  : 1 1 3 3 6 15
 total: 2 3 6 9 15 30
 
 
-logic :https://youtu.be/j7dsrZ0a9fs
-code :https://youtu.be/1bMFUJcigRw
-
 
 */

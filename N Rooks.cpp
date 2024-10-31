@@ -98,7 +98,6 @@ output:
 
 if multiple arr id possible then the starting from the top row and consider the possiblity once the lefft most col is fillied
 
-logic and logic  : https://youtu.be/uDvsL9twFWU
 
 
 */

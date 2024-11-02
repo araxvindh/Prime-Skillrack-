@@ -90,8 +90,7 @@ Now lps with string
 10-3
 11-4  count++
 
-code:https://youtu.be/S50mCVovRwQ
-logic : https://youtu.be/A6qCbbaoO84
+
 
 input:
 XyzzxxXyZzyxXyzzxXzz
